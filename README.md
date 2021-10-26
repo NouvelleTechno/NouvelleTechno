@@ -10,7 +10,7 @@ Bienvenue sur le dépôt des projets traités dans les tutoriels du site  [Nouve
 
 ## Projets
 <div style="display:grid; grid-template-columns: 1fr 1fr;">
-  <div
+  <div>
        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=Javascript-Form-Validation)](https://github.com/NouvelleTechno/Javascript-Form-Validation)
  </div>
   <div>
