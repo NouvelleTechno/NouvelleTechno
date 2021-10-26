@@ -10,6 +10,7 @@ Bienvenue sur le dépôt des projets traités dans les tutoriels du site  [Nouve
 
 ## Projets
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=Javascript-Form-Validation)](https://github.com/NouvelleTechno/Javascript-Form-Validation)
 
 
 ## Stats
