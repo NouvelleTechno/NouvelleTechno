@@ -15,3 +15,4 @@ Bienvenue sur le dépôt des projets traités dans les tutoriels du site  [Nouve
 ## Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=NouvelleTechno&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NouvelleTechno)]
