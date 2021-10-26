@@ -9,14 +9,10 @@
 Bienvenue sur le dépôt des projets traités dans les tutoriels du site  [Nouvelle-Techno.fr](https://nouvelle-techno.fr)
 
 ## Projets
-<div style="display:grid; grid-template-columns: 1fr 1fr;">
-  <div>
-       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=Javascript-Form-Validation)](https://github.com/NouvelleTechno/Javascript-Form-Validation)
- </div>
-  <div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=Javascript-Form-Validation)](https://github.com/NouvelleTechno/Javascript-Form-Validation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=verif-siret)](https://github.com/NouvelleTechno/verif-siret)
-  </div>
-</div>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=tutos-symfony5.1)](https://github.com/NouvelleTechno/tutos-symfony5.1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=PHP-Oriente-Objet)](https://github.com/NouvelleTechno/PHP-Oriente-Objet)
 
