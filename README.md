@@ -10,6 +10,8 @@ Bienvenue sur le dépôt des projets traités dans les tutoriels du site  [Nouve
 
 ## Projets
 
+
+
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NouvelleTechno)
+![Stats](https://github-readme-stats.vercel.app/api?username=NouvelleTechno&count_private=true&show_icons=true)
