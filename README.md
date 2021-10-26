@@ -11,7 +11,13 @@ Bienvenue sur le dépôt des projets traités dans les tutoriels du site  [Nouve
 ## Projets
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=Javascript-Form-Validation)](https://github.com/NouvelleTechno/Javascript-Form-Validation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=verif-siret)](https://github.com/NouvelleTechno/verif-siret)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=tutos-symfony5.1)](https://github.com/NouvelleTechno/tutos-symfony5.1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=PHP-Oriente-Objet)](https://github.com/NouvelleTechno/PHP-Oriente-Objet)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=Symfony-Messagerie-Privee)](https://github.com/NouvelleTechno/Symfony-Messagerie-Privee)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=Calculatrice-HTML-CSS-JS)](https://github.com/NouvelleTechno/Calculatrice-HTML-CSS-JS)
 
 ## Stats
 
