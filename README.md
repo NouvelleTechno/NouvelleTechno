@@ -4,6 +4,7 @@
 [![Website](https://img.shields.io/badge/Website-011F35?style=for-the-badge)](https://nouvelle-techno.fr)
 [![Discord Server](https://img.shields.io/discord/642353810223923220?logo=discord&logoColor=fff&style=for-the-badge&label=Discord)](https://discord.gg/azQ9sbD)
 [![Facebook Account](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=fff)](https://www.facebook.com/nouvelletechnofr/)
+[![Youtube Account](https://img.shields.io/youtube/channel/subscribers/UCVPd3h_V_hGjMZ8jNMt939Q?color=FF0000&label=Youtube&logo=youtube&style=for-the-badge&labelColor=f00)](https://www.youtube.com/c/NouvelleTechno)
 
 
 Bienvenue sur le dépôt des projets traités dans les tutoriels du site  [Nouvelle-Techno.fr](https://nouvelle-techno.fr)
