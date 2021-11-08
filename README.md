@@ -27,4 +27,4 @@ Bienvenue sur le dépôt des projets traités dans les tutoriels du site  [Nouve
 
 ## Divers
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg)](https://buymeacoffee.com/?via=nouvelletechno)
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg)](https://www.buymeacoffee.com/nouvelletechno)
