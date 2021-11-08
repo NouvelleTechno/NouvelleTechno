@@ -24,3 +24,7 @@ Bienvenue sur le dépôt des projets traités dans les tutoriels du site  [Nouve
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=NouvelleTechno&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NouvelleTechno&layout=compact)
+
+## Divers
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg)](https://buymeacoffee.com/?via=nouvelletechno)
