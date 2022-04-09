@@ -14,7 +14,7 @@ Bienvenue sur le dépôt des projets traités dans les tutoriels du site  [Nouve
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=Javascript-Form-Validation&show_owner=true)](https://github.com/NouvelleTechno/Javascript-Form-Validation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=verif-siret&show_owner=true)](https://github.com/NouvelleTechno/verif-siret)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=tutos-symfony5.1&show_owner=true)](https://github.com/NouvelleTechno/tutos-symfony5.1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=e-commerce-Symfony-6&show_owner=true)](https://github.com/NouvelleTechno/e-commerce-Symfony-6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=PHP-Oriente-Objet&show_owner=true)](https://github.com/NouvelleTechno/PHP-Oriente-Objet)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=Symfony-Messagerie-Privee&show_owner=true)](https://github.com/NouvelleTechno/Symfony-Messagerie-Privee)
