@@ -4,7 +4,7 @@
 
 [![LinkedIn Account](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/nouvelle-techno-fr)
 [![Website](https://img.shields.io/badge/Site%20Web-813ee8?style=for-the-badge)](https://nouvelle-techno.fr)
-[![Discord Account](https://img.shields.io/badge/Discord-7289da?style=for-the-badge)](https://discord.gg/8DcaQehcvE)
+[![Discord Account](https://img.shields.io/badge/-Discord-7289da?style=for-the-badge)](https://discord.gg/8DcaQehcvE)
 [![Facebook Account](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=fff)](https://www.facebook.com/nouvelletechnofr/)
 [![Youtube Account](https://img.shields.io/youtube/channel/subscribers/UCVPd3h_V_hGjMZ8jNMt939Q?color=FF0000&label=Youtube&logo=youtube&style=for-the-badge&labelColor=f00)](https://www.youtube.com/c/NouvelleTechno)
 
