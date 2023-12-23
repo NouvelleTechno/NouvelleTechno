@@ -1,6 +1,6 @@
 # Nouvelle-Techno.fr
 
-[![Banner](./images/banner.png)](https://nouvelle-techno.fr)
+[![Banner](./images/Tutoriels - Live-Coding.png)](https://nouvelle-techno.fr)
 
 [![LinkedIn Account](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/nouvelle-techno-fr)
 [![Website](https://img.shields.io/badge/Site%20Web-813ee8?style=for-the-badge)](https://nouvelle-techno.fr)
