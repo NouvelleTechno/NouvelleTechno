@@ -13,7 +13,7 @@ Bienvenue sur le dépôt des projets traités dans les tutoriels du site  [Nouve
 
 ## Projets
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=OpenBlog&show_owner=true)]([https://github.com/NouvelleTechno/e-commerce-Symfony-6](https://github.com/NouvelleTechno/OpenBlog))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=OpenBlog&show_owner=true)]([https://github.com/NouvelleTechno/OpenBlog](https://github.com/NouvelleTechno/OpenBlog))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=Javascript-Form-Validation&show_owner=true)](https://github.com/NouvelleTechno/Javascript-Form-Validation)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=verif-siret&show_owner=true)](https://github.com/NouvelleTechno/verif-siret)
