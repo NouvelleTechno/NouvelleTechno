@@ -13,19 +13,19 @@ Bienvenue sur le dépôt des projets traités dans les tutoriels du site  [Nouve
 
 ## Projets
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=OpenBlog&show_owner=true)](https://github.com/NouvelleTechno/OpenBlog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=Javascript-Form-Validation&show_owner=true)](https://github.com/NouvelleTechno/Javascript-Form-Validation)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=NouvelleTechno&repo=OpenBlog&show_owner=true)](https://github.com/NouvelleTechno/OpenBlog)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=NouvelleTechno&repo=Javascript-Form-Validation&show_owner=true)](https://github.com/NouvelleTechno/Javascript-Form-Validation)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=verif-siret&show_owner=true)](https://github.com/NouvelleTechno/verif-siret)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=PHP-Oriente-Objet&show_owner=true)](https://github.com/NouvelleTechno/PHP-Oriente-Objet)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=NouvelleTechno&repo=verif-siret&show_owner=true)](https://github.com/NouvelleTechno/verif-siret)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=NouvelleTechno&repo=PHP-Oriente-Objet&show_owner=true)](https://github.com/NouvelleTechno/PHP-Oriente-Objet)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=Symfony-Messagerie-Privee&show_owner=true)](https://github.com/NouvelleTechno/Symfony-Messagerie-Privee)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NouvelleTechno&repo=Calculatrice-HTML-CSS-JS&show_owner=true)](https://github.com/NouvelleTechno/Calculatrice-HTML-CSS-JS)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=NouvelleTechno&repo=Symfony-Messagerie-Privee&show_owner=true)](https://github.com/NouvelleTechno/Symfony-Messagerie-Privee)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=NouvelleTechno&repo=Calculatrice-HTML-CSS-JS&show_owner=true)](https://github.com/NouvelleTechno/Calculatrice-HTML-CSS-JS)
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NouvelleTechno&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NouvelleTechno&layout=compact)
+![Stats](https://github-stats-extended.vercel.app/api?username=NouvelleTechno&count_private=true&show_icons=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=NouvelleTechno&layout=compact)
 
 ## Divers
 
